@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167949732708",
+    "project_id": "librarymanagement-ee6db",
+    "storage_bucket": "librarymanagement-ee6db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167949732708:android:e14a3c4a489544cac74871",
+        "android_client_info": {
+          "package_name": "com.example.librarymanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167949732708-coquobjnmv20eei6vq2g087205gok628.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYJEzPTk2YOXcV8Xv0y3neGeb9B51czGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167949732708-coquobjnmv20eei6vq2g087205gok628.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
